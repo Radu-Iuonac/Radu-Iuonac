@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Radu-Iuonac
 - 👀 I’m interested in Programming both backend and frontend
 - 🌱 I’m currently learning JavaScript and React
+- 🔥 My portfolio https://radu-iuonac.github.io/
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
  <p align="left">
